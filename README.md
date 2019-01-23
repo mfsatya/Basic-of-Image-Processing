@@ -1,7 +1,7 @@
 # ImageCanvas
 
 This program is for adding an image to canvas. made to fulfill first Image Processing Task.
-Name    : Muhammad Ferianda Satya
+Name    : Muhammad Ferianda Satya 
 Nim     : 1301164400
 
 ## Installation
