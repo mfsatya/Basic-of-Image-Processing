@@ -1,8 +1,11 @@
-# ImageCanvas
+# Basic Image Processing
 
-This program is for adding an image to canvas. made to fulfill first Image Processing Task.
+This program is for adding an image to canvas. made to fulfill Image Processing Class Task.
 Name    : Muhammad Ferianda Satya 
 Nim     : 1301164400
+
+## Prerequirements
+1. anaconda with Python 3
 
 ## Installation
 
@@ -12,5 +15,6 @@ Installation using pip:
 pip install python-tk
 pip install pillow
 pip install python-resize-image
+pip install openCV
 
 ```
